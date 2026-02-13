@@ -79,7 +79,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dmrwiwrot/raw/upload/v1770981080/1vkwlZncsYqFukl2Q7M6Fe_dscepd", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dmrwiwrot/video/upload/v1770979898/Rizky_Febian_Adrian_Khalif_-_Alamak_Official_Lyric_Video_r6vcfk.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
